@@ -1,0 +1,106 @@
+10
+
+dir
+2
+https://arduino-house-apps.googlecode.com/svn/trunk/libraries
+https://arduino-house-apps.googlecode.com/svn
+
+
+
+2012-12-09T01:20:34.638000Z
+2
+zach.vorhies@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ab3383ca-ee12-2a5e-9d0d-6b9dceb4f4a7
+
+Sineseza
+dir
+
+TCL
+dir
+
+Stepper
+dir
+
+TempSensor_DS18S20
+dir
+
+Firmata
+dir
+
+DistanceSensor_ParallaxPing
+dir
+
+EEPROM
+dir
+
+LiquidCrystal
+dir
+
+SoftwareSerial
+dir
+
+SPI
+dir
+
+NewDeleteExt
+dir
+
+MaxSonarRangeFinder
+dir
+
+LedRopeTCL
+dir
+
+Servo
+dir
+
+MovementSensor_PIR
+dir
+
+TempSensor_DHT11
+dir
+
+Vector
+dir
+
+CircularArray
+dir
+
+Led
+dir
+
+SD
+dir
+
+Wire
+dir
+
+Coroutine
+dir
+
+Statistic
+dir
+
+OneWire
+dir
+
+RangeFinderSharpIR
+dir
+
+Ethernet
+dir
+

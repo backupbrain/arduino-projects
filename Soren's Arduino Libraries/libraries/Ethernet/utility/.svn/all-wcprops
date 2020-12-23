@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/libraries/Ethernet/utility
+END
+w5100.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/libraries/Ethernet/utility/w5100.h
+END
+socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/libraries/Ethernet/utility/socket.cpp
+END
+w5100.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/libraries/Ethernet/utility/w5100.cpp
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/libraries/Ethernet/utility/socket.h
+END

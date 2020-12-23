@@ -1,0 +1,6 @@
+5 aphro.27
+6 cat.27
+3 hello.27
+5 saturn.27
+5 text.27
+10 venus.27

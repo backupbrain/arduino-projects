@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/libraries/SD/utility
+END
+SdVolume.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/libraries/SD/utility/SdVolume.cpp
+END
+Sd2Card.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/libraries/SD/utility/Sd2Card.cpp
+END
+Sd2PinMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/libraries/SD/utility/Sd2PinMap.h
+END
+SdFatUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/libraries/SD/utility/SdFatUtil.h
+END
+SdFat.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/libraries/SD/utility/SdFat.h
+END
+SdFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/libraries/SD/utility/SdFile.cpp
+END
+FatStructs.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/libraries/SD/utility/FatStructs.h
+END
+Sd2Card.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/libraries/SD/utility/Sd2Card.h
+END
+SdInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/libraries/SD/utility/SdInfo.h
+END
+SdFatmainpage.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/libraries/SD/utility/SdFatmainpage.h
+END

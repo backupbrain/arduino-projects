@@ -1,0 +1,6 @@
+5 aphro.20
+6 cat.20
+3 hello.20
+5 saturn.20
+5 text.20
+10 venus.20
